@@ -4,7 +4,7 @@ Mangan Opo adalah website yang berfungsi untuk men-generate rekomendasi makanan 
 
 ## Demo
 
-Insert gif or link to demo
+https://github.com/user-attachments/assets/1347aaa7-d479-4b7b-9f1d-f367daadf2c1
 
 ## Install and Run
 
