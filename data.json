@@ -1,0 +1,155 @@
+{
+	"pagi": {
+		"makanan": [
+			{
+				"nama": "Nasi Pecel Madiun",
+				"deskripsi": "Nasi Pecel Madiun adalah makanan khas dari Madiun, Jawa Timur, yang terkenal sebagai salah satu jenis nasi pecel terenak di Indonesia dan menjadi ikon dalam kategori nasi pecel secara nasional. Hidangan ini terdiri dari nasi putih yang disajikan di atas piring atau daun pisang, kemudian ditumpuk dengan berbagai jenis sayuran rebus seperti kangkung, kacang panjang, taoge, bayam, dan kadang daun kenikir serta petai cina, yang merupakan ciri khas dari nasi pecel khas Jawa Timur. Sayuran-sayuran ini kemudian disiram dengan sambal kacang pedas yang gurih, yang dibuat dari bahan-bahan sederhana seperti kacang tanah, cabai, gula merah, dan jeruk purut yang ditumbuk hingga halus.",
+				"gambar": [
+					"nasi-pecel-madiun-1.webp",
+					"nasi-pecel-madiun-2.webp",
+					"nasi-pecel-madiun-3.webp"
+				]
+			},
+			{
+				"nama": "Lontong Balap Surabaya",
+				"deskripsi": "Lontong balap adalah hidangan khas Surabaya yang telah menjadi legenda kuliner sejak puluhan tahun lalu dan tetap populer di kalangan warga lokal maupun wisatawan. Hidangan ini terdiri dari potongan lontong, tauge segar, tahu goreng, lentho (perkedel dari kacang tolo), serta disiram dengan kuah kaldu gurih dan sambal petis yang memberikan cita rasa khas. Asal-usulnya berasal dari Surabaya, Jawa Timur, dan dikenal karena rasa unik yang dihasilkan dari penggunaan petis (terasi udang) dalam jumlah banyak",
+				"gambar": [
+					"lontong-balap-surabaya-1.webp",
+					"lontong-balap-surabaya-2.webp",
+					"lontong-balap-surabaya-3.webp"
+				]
+			},
+			{
+				"nama": "Tahu Tek",
+				"deskripsi": "Tahu tek adalah salah satu masakan khas Jawa Timur, khususnya dari Kota Surabaya. Hidangan ini terdiri atas tahu goreng setengah matang yang dipotong kecil-kecil menggunakan gunting dan garpu, serta lontong yang dipotong kecil-kecil. Bahan-bahan lain yang biasanya disajikan bersama antara lain telur dadar, kentang goreng, sedikit taoge, irisan ketimun yang dipotong kecil-panjang seperti acar, dan ditaburi kerupuk udang berukuran kecil dengan diameter sekitar 3 cm.",
+				"gambar": ["tahu-tek-1.webp", "tahu-tek-2.webp", "tahu-tek-3.webp"]
+			},
+			{
+				"nama": "Bubur Madura",
+				"deskripsi": "Bubur Madura adalah makanan khas dari Bangkalan, Pulau Madura, Jawa Timur, yang dikenal dengan cita rasa manis yang unik dan perpaduan berbagai jenis bubur dalam satu sajian. Makanan ini terdiri dari campuran beberapa bubur seperti bubur sumsum, bubur ketan hitam, bubur candil (atau grendul), dan bubur mutiara, yang memberikan tekstur dan rasa yang beragam. Bubur sumsum dibuat dari tepung beras dan santan, memiliki tekstur lembut dan gurih, sementara bubur candil terbuat dari campuran tepung beras dan ubi yang dibentuk bulat dan direbus dalam kuah gula merah. Bubur ketan hitam dan bubur mutiara juga dimasak hingga lembut dan manis, menambah kekayaan rasa.",
+				"gambar": [
+					"bubur-madura-1.webp",
+					"bubur-madura-2.webp",
+					"bubur-madura-3.webp"
+				]
+			}
+		],
+		"alasan": "Makanan ini mengombinasikan karbohidrat kompleks dengan sayur atau protein ringan sehingga tidak terlalu membebani pencernaan pagi."
+	},
+	"siang": {
+		"makanan": [
+			{
+				"nama": "Rawon",
+				"deskripsi": "Rawon adalah sup daging sapi khas Indonesia yang berasal dari Jawa Timur, khususnya daerah Ponorogo, dan dikenal karena kuahnya yang berwarna gelap atau hitam. Warna khas ini berasal dari penggunaan keluak (buah keluak), yaitu bahan rempah khas yang memberikan rasa gurih dan aroma khas pada hidangan. Bahan utama rawon meliputi daging sapi, biasanya potongan sandung lamur atau iga sapi, yang dimasak perlahan hingga empuk, serta dibumbui dengan campuran bawang merah, bawang putih, jahe, lengkuas, kunyit, serai, dan rempah-rempah lainnya yang dihaluskan dan ditumis sebelum dimasukkan ke dalam kaldu",
+				"gambar": ["rawon-1.webp", "rawon-2.webp", "rawon-3.webp"]
+			},
+			{
+				"nama": "Soto Lamongan",
+				"deskripsi": "Soto Lamongan adalah soto ayam khas dari Lamongan, Jawa Timur, yang dikenal karena rasa gurihnya yang khas, terutama karena taburan koya udang yang tidak dimiliki oleh soto lainnya. Hidangan ini memiliki kuah kuning bening yang dibuat dari kaldu ayam dan bumbu halus seperti bawang putih, ketumbar, merica, kemiri, kunyit, jahe, lengkuas, serai, serta daun salam, yang mencerminkan pengaruh budaya Jawa, Tiongkok, dan Eropa.",
+				"gambar": [
+					"soto-lamongan-1.webp",
+					"soto-lamongan-2.webp",
+					"soto-lamongan-3.webp"
+				]
+			},
+			{
+				"nama": "Rujak Cingur",
+				"deskripsi": "Rujak cingur merupakan salah satu makanan tradisional khas Jawa Timur, terutama berasal dari daerah Surabaya. Nama \"cingur\" dalam bahasa Jawa berarti \"mulut\" atau \"moncong\", merujuk pada bagian hidung atau bibir sapi yang direbus dan menjadi bahan utama dalam hidangan ini. Rujak cingur biasanya terdiri dari berbagai bahan seperti irisan timun, kerahi (sejenis timun khas Jawa Timur), bengkuang, mangga muda, nanas, kedondong, lontong, tahu, tempe, bendhoyo, sayuran seperti kecambah/taoge, kangkung, dan kacang panjang.",
+				"gambar": [
+					"rujak-cingur-1.webp",
+					"rujak-cingur-2.webp",
+					"rujak-cingur-3.webp"
+				]
+			},
+			{
+				"nama": "Lontong Kupang",
+				"deskripsi": "Lontong kupang, atau yang juga dikenal sebagai kupang lontong, merupakan makanan khas daerah Jawa Timur yang terkenal khususnya di Sidoarjo, Surabaya, dan Pasuruan. Hidangan ini terdiri dari lontong, kupang (kerang kecil), lentho sebagai pelengkap, serta kuah petis yang kaya rempah. Kupang, bahan utama yang digunakan, merupakan hewan laut bertubuh lunak (moluska) berukuran kecil sebesar biji beras atau biji kedelai, yang biasanya ditemukan di pinggir pantai atau lumpur berair asin.",
+				"gambar": [
+					"lontong-kupang-1.webp",
+					"lontong-kupang-2.webp",
+					"lontong-kupang-3.webp"
+				]
+			}
+		],
+		"alasan": "Siang hari tubuh paling siap mencerna makanan berlemak, berbumbu, dan berprotein tinggi."
+	},
+    "sore": {
+        "makanan":[
+            {
+                "nama": "Tahu Isi/Tahu Walik",
+                "deskripsi": "Tahu Isi dan Tahu Walik adalah dua jajanan khas Indonesia yang populer. Tahu Isi digoreng dengan isian sayuran (biasanya tauge, wortel, kol) dan terkadang ditambah mie atau bihun. Sedangkan Tahu Walik adalah tahu yang \"dibalik\" (walik = balik dalam bahasa Jawa), di mana bagian dalamnya dikeluarkan, dibumbui, lalu digoreng hingga renyah.",
+                "gambar": [
+                    "tahu-isi-walik-1.webp",
+                    "tahu-isi-walik-2.webp",
+                    "tahu-isi-walik-3.webp",
+                    "tahu-isi-walik-4.webp"
+                ]
+            }, {
+                "nama": "Pisang Goreng",
+                "deskripsi": "Pisang goreng adalah makanan ringan yang terbuat dari pisang yang telah dikupas kulitnya, kemudian dilumuri adonan yang terbuat dari tepung, telur, garam, dan gula sebelum digoreng dalam minyak panas hingga kecokelatan.",
+                "gambar": [
+                    "pisang-goreng-1.webp",
+                    "pisang-goreng-2.webp",
+                    "pisang-goreng-3.webp"
+                ]
+            },
+            {
+                "nama": "Klepon",
+                "deskripsi": "Klepon adalah kue tradisional khas Indonesia yang termasuk dalam kelompok jajanan pasar, terbuat dari tepung beras ketan yang dibentuk menjadi bola-bola kecil dan diisi dengan gula merah. Kue ini memiliki ciri khas berbentuk bulat kecil dengan warna hijau muda, yang diperoleh dari ekstrak daun pandan atau daun suji, serta dilapisi parutan kelapa yang gurih. Saat digigit, isi gula merah di dalamnya meleleh, memberikan sensasi manis yang khas dan nikmat.",
+                "gambar": [
+                    "klepon-1.webp",
+                    "klepon-2.webp",
+                    "klepon-3.webp"
+                ]
+            }
+        ],
+        "alasan": "Membantu menjaga energi menjelang sore tanpa mengganggu makan malam."
+    },
+	"malam": {
+		"makanan": [
+			{
+				"nama": "Tahu Campur Surabaya",
+				"deskripsi": "Tahu Campur Surabaya adalah hidangan berkuah khas Jawa Timur yang terkenal dengan perpaduan rasa gurih, manis, dan sedikit pedas dari sambal petis. Hidangan ini terdiri dari berbagai bahan seperti tahu goreng, daging sapi kenyal, mie kuning, tauge, lontong, selada air, dan perkedel singkong, yang disiram dengan kuah kaldu kental yang kaya bumbu",
+				"gambar": [
+					"tahu-campur-surabaya-1.webp",
+					"tahu-campur-surabaya-2.webp",
+					"tahu-campur-surabaya-3.webp"
+				]
+			},
+			{
+				"nama": "Sayur Bening Jagung",
+				"deskripsi": "Sayur Bening Jagung adalah masakan tradisional Indonesia yang sederhana, sehat, dan kaya manfaat. Terbuat dari jagung manis dan sering dipadukan dengan bayam, wortel, atau sayuran lainnya, kuah beningnya dibumbui dengan bawang putih, bawang merah, dan temu kunci yang memberikan aroma harum khas. Hidangan ini rendah kalori, tinggi serat, dan cocok untuk semua usia.",
+				"gambar": [
+					"sayur-bening-jagung-1.webp",
+					"sayur-bening-jagung-2.webp",
+					"sayur-bening-jagung-3.webp"
+				]
+			},
+			{
+				"nama": "Urap-urap",
+				"deskripsi": "Urap-urap adalah hidangan salad tradisional khas Indonesia, khususnya dari Jawa, yang terdiri dari sayuran yang dimasak (direbus atau dikukus) dan dicampur dengan bumbu kelapa parut yang memiliki citarasa khas.",
+				"gambar": ["urap-urap-1.webp", "urap-urap-2.webp", "urap-urap-3.webp"]
+			}
+		]
+	},
+	"tengahMalam": [
+		{
+			"nama": "Wedang Jahe",
+			"deskripsi": "Wedang jahe adalah minuman sari jahe tradisional asal Jawa Tengah, Daerah Istimewa Yogyakarta, dan Jawa Timur, Indonesia, yang umumnya disajikan hangat atau panas. Istilah \"wedang\" berasal dari bahasa Jawa yang berarti \"minuman rebus\" atau \"minuman panas\", sedangkan \"jahe\" merujuk pada bahan utamanya, yaitu rimpang jahe.",
+			"gambar": [
+				"wedang-jahe-1.webp",
+				"wedang-jahe-2.webp",
+				"wedang-jahe-3.webp"
+			]
+		},
+		{
+			"nama": "Roti Gandum",
+			"deskripsi": "Roti gandum adalah jenis roti yang dibuat menggunakan tepung dari biji-bijian gandum utuh atau hampir utuh, yang mencakup seluruh bagian biji gandum seperti dedak (kulit luar), endosperma (bagian tengah yang kaya karbohidrat), dan germ (lapisan dalam atau lembaga gandum).",
+			"gambar": [
+				"roti-gandum-1.webp",
+				"roti-gandum-2.webp",
+				"roti-gandum-3.webp"
+			]
+		}
+	]
+}

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link rel="stylesheet" href="style.css">
+    <style type="text/tailwindcss">
+        @font-face {
+            font-family: Alpino;
+            src: url("/media/fonts/Alpino-Bold.otf");
+        }
+
+        @font-face {
+            font-family: Satoshi;
+            src: url("/media/fonts/Satoshi-Regular.otf");
+        }
+
+        @theme {
+            --font-display: "Alpino";
+            --font-body: "Satoshi";
+        }
+    </style>
+    <title>Mangan Opo?</title>
+</head>
+
+<body class="bg-amber-50 text-neutral-600 font-body">
+    <div class="w-fit mx-auto bg-neutral-50 px-4 py-2 rounded-full mt-8 shadow flex gap-2 items-center justify-center">
+        <i data-lucide="clock-4" class="text-amber-500"></i><span id="waktu"></span>
+    </div>
+
+    <h1 class="font-display text-4xl font-bold text-center my-4 text-amber-500">Mangan Opo?</h1>
+    <p class="text-center w-2/3 mx-auto">Dapatkan makanan sehat dengan rekomendasi yang berdasar pada waktu saat ini dan
+        ketahui alasannya.
+    </p>
+    <div class="bg-neutral-50 shadow-md w-[90%] mx-auto rounded-xl overflow-hidden hidden mt-4" id="display-makanan">
+        <img id="gambar-makanan" class="bg-center object-cover w-full" />
+        <div class="p-2">
+            <h4 id="nama-makanan" class="font-display text-2xl mb-2"></h4>
+            <p id="deskripsi-makanan"></p>
+            <div class="my-3 p-4 bg-cyan-50 border border-cyan-200 text-cyan-950 shadow-sm rounded-md">
+                <h4 class="font-semibold mb-3">Kenapa cocok dimakan sekarang?</h4>
+                <p id="alasan-makanan"></p>
+            </div>
+        </div>
+    </div>
+    <button type="submit" onclick="cariMakanan()"
+        class="my-8 mx-auto text-center bg-amber-500 text-neutral-50 py-4 px-8 rounded-full flex justify-center items-center gap-4 cursor-pointer"><i
+            data-lucide="refresh-ccw"></i>Cari
+        Makanan</button>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script>
+        lucide.createIcons();
+    </script>
+    <script src="script.js"></script>
+    <script>
+        showTime()
+        scheduleNextMinute()
+    </script>
+</body>
+
+</html>
