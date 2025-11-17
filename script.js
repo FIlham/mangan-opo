@@ -18,6 +18,9 @@ async function loadData() {
 	}
 }
 
+/**
+ * Fungsi untuk mencari makanan dengan data yang dihasilkan dari fungsi `loadData`
+ */
 async function cariMakanan() {
 	try {
 		const data = await loadData();
