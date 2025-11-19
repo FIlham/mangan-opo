@@ -45,7 +45,7 @@ async function cariMakanan() {
 				makananPagi[Math.floor(Math.random() * makananPagi.length)];
 			const randomGambarMakananPagi =
 				randomMakananPagi.gambar[
-					Math.floor(Math.random() * randomMakananPagi.length)
+					Math.floor(Math.random() * randomMakananPagi.gambar.length)
 				];
 			editElement(
 				"img#gambar-makanan",
